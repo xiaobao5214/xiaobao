@@ -1,3 +1,2 @@
-我就是试试fetch好不好使证明fetch可以访问远程这次试试上传的用户名是否正确
+﻿我就是试试fetch好不好使证明fetch可以访问远程这次试试上传的用户名是否正确
 是不是能智能地解决冲突
->>>>>>> origin/feature/feature-xiaobao1
